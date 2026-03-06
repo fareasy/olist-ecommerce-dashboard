@@ -1,5 +1,6 @@
 # olist-ecommerce-dashboard
 <img width="1499" height="999" alt="Olist Sales Performance Dashboard" src="https://github.com/user-attachments/assets/c1f5d227-08de-417d-8b4e-71d00888d496" />
+
 [Tableau Link](https://public.tableau.com/views/OlistDashboard_17725917027820/OlistCustomersDashboard?:language=enUS&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 This repository contains an end-to-end analytics project using the Olist Brazilian E-Commerce dataset. The project includes data cleaning, aggregation, fact table creation, and interactive dashboards, demonstrating skills in SQL and Tableau.
