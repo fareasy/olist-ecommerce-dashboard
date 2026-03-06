@@ -11,7 +11,7 @@ This repository contains an end-to-end analytics project using the Olist Brazili
 - Table creation with constraints and relationships  
 - Aggregations, CTEs, and views  
 - Delivery metrics and revenue calculations  
-- Data Visualization: Tableau (interactive dashboards)
+- Data Visualization: Tableau
 
 ## Project Overview
 
