@@ -28,16 +28,16 @@ This project simulates a full analytics workflow:
      - Delivery performance metrics (delivery_days, is_late, delivery_delay_days)  
      - Customer and seller locations  
      - Review scores
+    
+3. Export for Analysis 
+   - The fact table is exported as CSV since Tableau Public does not allow SQL connections.
 
-3. Dashboard Analysis
+4. Dashboard Analysis
    - Tableau dashboard visualizes:  
      - Monthly revenue trends  
      - Top product categories  
      - Customer and seller distribution by state  
-     - Delivery performance insights  
-
-4. Export for Analysis 
-   - The fact table is exported as CSV since Tableau Public does not allow SQL connections.
+     - Delivery performance insights
 
 ## Key Metrics
 - Total and item-level revenue  
